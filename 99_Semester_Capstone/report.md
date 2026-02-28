@@ -1,4 +1,4 @@
-# Report — Semester 2 Capstone (Skeleton)
+# Report — Semester 2 Capstone
 
 ## Summary
 - (TBD) I packaged Semester 2 work into evidence-based mini deliverables per course.
